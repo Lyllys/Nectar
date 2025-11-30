@@ -1,0 +1,16 @@
+:root {
+  --bg-primary-color: linear-gradient(
+    90deg,
+    rgba(255, 225, 53, 1) 0%,
+    rgba(255, 219, 26, 1) 48%,
+    rgba(255, 199, 0, 1) 100%
+  );
+
+  --primary-blue: #1c398e;
+  --primary-gray: #4a5565;
+  --secondary-gray: #6a7282;
+
+  --text-primary-color: var(--primary-blue);
+  --text-secondary-color: var(--primary-gray);
+  --text-placeholder-color: var(--secondary-gray);
+}

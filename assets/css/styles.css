@@ -42,11 +42,6 @@ a {
   box-shadow: 0 8px 16px rgba(255, 199, 0, 0.4);
 }
 
-.btn-primary-gradiente:active {
-  transform: translateY(0);
-  box-shadow: 0 4px 8px rgba(255, 199, 0, 0.3);
-}
-
 .lateral-mascote,
 .lateral-formulario {
   min-height: 100vh;
@@ -138,6 +133,16 @@ a {
   font-size: 0.9rem;
 }
 
+.texto-link-login a {
+  font-weight: 500;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.texto-link-login a:hover {
+  color: var(--primary-blue);
+}
+
+/* Tablets (768px+) */
 @media (min-width: 768px) {
   .titulo-lateral-mascote {
     width: 75%;

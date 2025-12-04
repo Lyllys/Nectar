@@ -1,4 +1,4 @@
-# <img src="assets/images/logo.svg" alt="Logo Néctar" width="20"> Néctar - Página de Cadastro
+# <img src="assets/images/logo.svg" alt="Logo Néctar" width="20"> Néctar
 
 Página de cadastro do aplicativo Néctar, uma solução inteligente para organização financeira pessoal. Desenvolvido como projeto acadêmico para a FIAP.
 

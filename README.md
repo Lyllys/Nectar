@@ -8,7 +8,7 @@ Néctar é um aplicativo de gestão financeira que ajuda usuários a organizarem
 
 ## Público-Alvo
 
-A plataforma Néctar foi desenvolvida especialmente para o **público jovem**, com foco em **mulheres** que buscam autonomia e educação financeira. A interface amigável, as cores vibrantes e a linguagem acolhedora refletem esse posicionamento, tornando a gestão financeira mais acessível e menos intimidadora.
+A plataforma Néctar foi desenvolvida especialmente para o **público jovem**, para uma maior autonomia e educação financeira. A interface amigável, as cores vibrantes e a linguagem acolhedora refletem esse posicionamento, tornando a gestão financeira mais acessível e menos intimidadora.
 
 ## Conceito e Metáfora
 

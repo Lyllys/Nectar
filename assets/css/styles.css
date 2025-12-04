@@ -39,7 +39,12 @@ a {
 
 .btn-primary-gradiente:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 16px rgba(255, 199, 0, 0.4);
+  box-shadow: 0 8px 16px var(--shadow-primary-color);
+}
+
+.btn-primary-gradiente:active {
+  transform: translateY(0);
+  box-shadow: 0 4px 8px var(--shadow-primary-color);
 }
 
 .lateral-mascote,

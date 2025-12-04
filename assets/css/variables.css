@@ -10,6 +10,7 @@
   --secondary-blue: #155dfc;
   --primary-gray: #4a5565;
   --secondary-gray: #6a7282;
+  --shadow-primary-color: rgba(255, 199, 0, 0.4);
 
   --text-primary-color: var(--primary-blue);
   --text-secondary-color: var(--primary-gray);

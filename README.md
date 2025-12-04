@@ -6,11 +6,11 @@ Página de cadastro do aplicativo Néctar, uma solução inteligente para organi
 
 Néctar é um aplicativo de gestão financeira que ajuda usuários a organizarem suas finanças de forma inteligente. A Zizi, nossa mascote abelha, acompanha o usuário em sua jornada para "encher o pote de mel" - alcançar seus objetivos financeiros.
 
-### Público-Alvo
+## Público-Alvo
 
 A plataforma Néctar foi desenvolvida especialmente para o **público jovem**, com foco em **mulheres** que buscam autonomia e educação financeira. A interface amigável, as cores vibrantes e a linguagem acolhedora refletem esse posicionamento, tornando a gestão financeira mais acessível e menos intimidadora.
 
-### Conceito e Metáfora
+## Conceito e Metáfora
 
 O nome **Néctar** foi estrategicamente escolhido por sua profunda relação com o universo das abelhas e a gestão financeira:
 
